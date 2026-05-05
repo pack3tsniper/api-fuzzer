@@ -1,0 +1,11 @@
+users
+posts
+login
+admin
+profile
+api
+v1
+health
+status
+graphql
+swagger
